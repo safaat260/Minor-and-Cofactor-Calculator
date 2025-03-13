@@ -1,0 +1,1 @@
+# Minor-and-Cofactor-Calculator
